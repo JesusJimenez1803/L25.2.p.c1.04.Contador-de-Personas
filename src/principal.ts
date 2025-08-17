@@ -1,3 +1,7 @@
+/*CONTADOR DE PERSONAS
+*Sea el nombre y el sexo de varias personas (F-M). Se necesita un programa que lea estos
+*datos y reporte al final la cantidad de hombres y la cantidad de mujeres procesadas. 
+*/
 import Cl_Persona from "./Cl_Persona.js";
 import Cl_Sexo from "./Cl_Sexo.js";
 
